@@ -1,5 +1,17 @@
 # Real-Time Chat Application
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: Syed Waseem Roshan
+
+*INTERN ID*: CT06DH1678
+
+*DOMAIN*: Full Stack Web Development
+
+*DURATION*: 6 WEEEKS
+
+*MENTOR*:NEELA SANTOSH
+
 A modern, responsive real-time chat application built with WebSocket/Socket.IO technology. Features a sleek glassmorphism design with smooth animations and real-time messaging capabilities.
 
 ## 🚀 Features
@@ -313,5 +325,6 @@ For support, please open an issue in the GitHub repository or contact [waseemros
 - Community feedback and contributions
 
 ---
+## OUTPUT:
 
 **Made with ❤️ for real-time communication**
