@@ -326,5 +326,8 @@ For support, please open an issue in the GitHub repository or contact [waseemros
 
 ---
 ## OUTPUT:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bde4bae3-9480-4e50-b1de-0516e6443c75" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/66affcf3-e25a-4196-9670-d752865b65ee" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/054d408e-0576-416d-9e17-250e5685d728" />
 
 **Made with ❤️ for real-time communication**
